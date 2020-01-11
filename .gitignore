@@ -1,0 +1,9 @@
+*-secret-*
+.vagrant
+*.retry
+.DS_Store
+.idea
+*.pem
+*.log
+*.swp
+*.pyc
